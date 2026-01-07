@@ -5,6 +5,7 @@ The main purpose of this documentation is to understand:
 - how to run ClaymoreUW through supercomputer, specifically in Lonestar 6 of TACC at UT Austin;
 - how to analyze the output files 
 
+Please check the pptx files to understand the details. 
 This is a modified fork of JustinBonus/claymore. The details not mentioned in this document are mostly illustrated in the original repository. 
 
 # ClaymoreUW
